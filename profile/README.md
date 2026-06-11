@@ -18,17 +18,37 @@ SVGSketch is a web-based vector editor built around SVG and CSS. The editor uses
 
 ## Products
 
-| Product | Description |
-| --- | --- |
-| [Editor](https://app.svgsketch.com) | SVG editing workspace with shape tools, boolean operations, components, variants, animation timeline, plugins, and collaboration. |
-| [SDK](https://docs.svgsketch.com/sdk) | Rendering and editing engine for embedding SVGSketch capabilities in applications. |
-| [CLI](https://docs.svgsketch.com/cli) | Command-line tools for rendering, converting, and batch-processing `.svgs` documents. |
-| [Plugins](https://docs.svgsketch.com) | Extension system for custom shapes, panels, tools, chart generators, and QR or barcode generators. |
+| Product                               | Description                                                                                                                       |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| [Editor](https://app.svgsketch.com)   | SVG editing workspace with shape tools, boolean operations, components, variants, animation timeline, plugins, and collaboration. |
+| [SDK](https://docs.svgsketch.com/sdk) | Rendering and editing engine for embedding SVGSketch capabilities in applications.                                                |
+| [CLI](https://docs.svgsketch.com/cli) | Command-line tools for rendering, converting, and batch-processing `.svgs` documents.                                             |
+| [Plugins](https://docs.svgsketch.com) | Extension system for custom shapes, panels, tools, chart generators, and QR or barcode generators.                                |
 
 ## Plans
 
-- Free: editor access, shape tools, SVG and PNG export, and up to 5 saved documents.
-- Pro: unlimited documents, PDF export, GIF export, batch export, code generation, charts, data visualization, plugin marketplace access, and real-time collaboration.
+Free:
+
+- $0.
+- Full SVG editor with all drawing tools.
+- SVG and PNG export.
+- Boolean operations and path editing.
+- Keyboard shortcuts and dark mode.
+- Limited cloud storage.
+- Local editing without an account.
+
+Pro:
+
+- $12/month, or $108/year.
+- 14-day free trial.
+- AI vector generation from text prompts.
+- Animation export.
+- Pro plugins for charts, maps, LaTeX math, QR codes, barcodes, 3D shapes, sheet music, and artistic transforms.
+- Code export for React, Vue, D3.js, and CSS.
+- PDF, GIF, JPEG, WebP, and batch ZIP export.
+- Real-time collaboration on shared documents.
+- Expanded cloud storage and document history.
+- Priority support and early access to new features.
 
 Pricing details: [svgsketch.com/#pricing](https://svgsketch.com/#pricing)
 
