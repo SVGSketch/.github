@@ -11,7 +11,7 @@ SVGSketch is a web-based vector editor built around SVG and CSS. The editor uses
 ## Capabilities
 
 - Standards-oriented SVG output without proprietary editor metadata.
-- CSS, SMIL, and Web Animations API export from the animation timeline.
+- Animation export from the timeline with CSS animations, Web Animations API, and SMIL. SMIL provides the best SVG compatibility.
 - Component export for React, Vue, and D3.
 - Browser-based editing with cloud sync.
 - Real-time collaboration and plugin extension points.
@@ -23,7 +23,7 @@ SVGSketch is a web-based vector editor built around SVG and CSS. The editor uses
 | [Editor](https://app.svgsketch.com)   | SVG editing workspace with shape tools, boolean operations, components, variants, animation timeline, plugins, and collaboration. |
 | [SDK](https://docs.svgsketch.com/sdk) | Rendering and editing engine for embedding SVGSketch capabilities in applications.                                                |
 | [CLI](https://docs.svgsketch.com/cli) | Command-line tools for rendering, converting, and batch-processing `.svgs` documents.                                             |
-| [Plugins](https://docs.svgsketch.com) | Extension system for custom shapes, panels, tools, chart generators, and QR or barcode generators.                                |
+| [Plugins](https://docs.svgsketch.com) | Extension system with access to all plugins, including charts, maps, LaTeX math, QR codes, barcodes, 3D shapes, sheet music, and artistic transforms. |
 
 ## Plans
 
@@ -42,8 +42,8 @@ Pro:
 - $12/month, or $108/year.
 - 14-day free trial.
 - AI vector generation from text prompts.
-- Animation export.
-- Pro plugins for charts, maps, LaTeX math, QR codes, barcodes, 3D shapes, sheet music, and artistic transforms.
+- Animation export with CSS animations, Web Animations API, and SMIL. SMIL provides the best SVG compatibility.
+- Access to all plugins, including charts, maps, LaTeX math, QR codes, barcodes, 3D shapes, sheet music, and artistic transforms.
 - Code export for React, Vue, D3.js, and CSS.
 - PDF, GIF, JPEG, WebP, and batch ZIP export.
 - Real-time collaboration on shared documents.
