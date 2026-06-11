@@ -1,64 +1,43 @@
-<div align="center">
-
 # SVGSketch
 
-**A professional SVG editor that runs entirely in your browser.**
+Browser-based SVG editor for creating, editing, animating, and exporting standards-compliant SVG.
 
-No downloads. No installs. No watermarks. Just clean, spec-compliant SVG output.
+[Open the editor](https://app.svgsketch.com) | [Website](https://svgsketch.com) | [Docs](https://docs.svgsketch.com) | [Discord](https://discord.gg/yRBaKX3umA)
 
-[**Open the Editor →**](https://app.svgsketch.com) &nbsp;·&nbsp; [Website](https://svgsketch.com) &nbsp;·&nbsp; [Docs](https://docs.svgsketch.com) &nbsp;·&nbsp; [Discord](https://discord.gg/yRBaKX3umA)
+## Overview
 
-</div>
+SVGSketch is a web-based vector editor built around SVG and CSS. The editor uses SVG as its primary document model and exports files intended to work in browsers and SVG-compatible tools.
 
----
+## Capabilities
 
-## What is SVGSketch?
+- Standards-oriented SVG output without proprietary editor metadata.
+- CSS, SMIL, and Web Animations API export from the animation timeline.
+- Component export for React, Vue, and D3.
+- Browser-based editing with cloud sync.
+- Real-time collaboration and plugin extension points.
 
-SVGSketch is a web-based vector editor built around the SVG and CSS specifications. Where most editors treat SVG as an export target, SVGSketch treats it as the source of truth — the editor is a GUI wrapper around the spec, so what you see on the canvas is what you get in the file.
+## Products
 
-That means:
+| Product | Description |
+| --- | --- |
+| [Editor](https://app.svgsketch.com) | SVG editing workspace with shape tools, boolean operations, components, variants, animation timeline, plugins, and collaboration. |
+| [SDK](https://docs.svgsketch.com/sdk) | Rendering and editing engine for embedding SVGSketch capabilities in applications. |
+| [CLI](https://docs.svgsketch.com/cli) | Command-line tools for rendering, converting, and batch-processing `.svgs` documents. |
+| [Plugins](https://docs.svgsketch.com) | Extension system for custom shapes, panels, tools, chart generators, and QR or barcode generators. |
 
-- **Spec-compliant output** — no proprietary metadata, no editor-only attributes, no surprises when you open the file somewhere else.
-- **First-class CSS & animation** — SMIL, CSS animations, and Web Animations API export supported directly from the timeline.
-- **Real code export** — generate React, Vue, or D3 components from your designs.
-- **Runs in any modern browser** — nothing to install, everything syncs to the cloud.
+## Plans
 
-## What we build
+- Free: editor access, shape tools, SVG and PNG export, and up to 5 saved documents.
+- Pro: unlimited documents, PDF export, GIF export, batch export, code generation, charts, data visualization, plugin marketplace access, and real-time collaboration.
 
-| Product                                   | Description                                                                                                                                          |
-| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Editor**](https://app.svgsketch.com)   | The main SVG editing experience — 19 shape tools, boolean ops, component system with variants, animation timeline, plugins, real-time collaboration. |
-| [**SDK**](https://docs.svgsketch.com/sdk) | Embed SVGSketch's rendering and editing engine in your own applications.                                                                             |
-| [**CLI**](https://docs.svgsketch.com/cli) | Render, convert, and batch-process `.svgs` documents from the command line or CI.                                                                    |
-| [**Plugins**](https://docs.svgsketch.com) | Extend the editor with custom shapes, panels, and tools. Chart plugins, QR/barcode generators, and more ship in the box.                             |
+Pricing details: [svgsketch.com/#pricing](https://svgsketch.com/#pricing)
 
-## Free vs. Pro
+## Support
 
-SVGSketch has a generous free tier and a Pro subscription (14-day free trial, no credit card required):
-
-- **Free** — full editor, all shape tools, SVG & PNG export, up to 5 saved documents
-- **Pro** — unlimited documents, PDF/GIF/batch exports, code generation, charts & data viz, plugin marketplace, real-time collaboration
-
-See [svgsketch.com/#pricing](https://svgsketch.com/#pricing) for details.
-
-## Community
-
-Questions, ideas, bug reports, or just want to see what others are making?
-
-### 💬 [Join our Discord](https://discord.gg/yRBaKX3umA)
-
-The Discord is where announcements drop first, where bug reports get triaged, and where feature requests actually shape the roadmap. Come hang out.
-
-## Stay updated
-
-- 🌐 [svgsketch.com](https://svgsketch.com) — product site and pricing
-- 📖 [docs.svgsketch.com](https://docs.svgsketch.com) — full documentation, SDK reference, CLI reference
-- 💬 [Discord](https://discord.gg/yRBaKX3umA) — community, support, announcements
+- [Documentation](https://docs.svgsketch.com): product documentation, SDK reference, and CLI reference.
+- [Discord](https://discord.gg/yRBaKX3umA): support, bug reports, feature requests, and announcements.
+- [Website](https://svgsketch.com): product information and pricing.
 
 ---
 
-<div align="center">
-
-_© 2025–2026 SVGSketch LLC_
-
-</div>
+Copyright 2025-2026 SVGSketch LLC
