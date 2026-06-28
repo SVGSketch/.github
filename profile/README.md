@@ -35,7 +35,7 @@ Free:
 - Boolean operations and path editing.
 - Keyboard shortcuts and dark mode.
 - Limited cloud storage.
-- Local editing without an account.
+- Local editing without an account. 
 
 Pro:
 
